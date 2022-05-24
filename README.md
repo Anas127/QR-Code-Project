@@ -35,7 +35,7 @@ The challenge is to build out a QR code component and get it looking as close to
 
 ### Useful resources
 
-- [1st resource](https://www.markdownguide.org/) - This is a page which helped me create the README.md .
+- (https://www.markdownguide.org/) - This is a page which helped me create the README.md .
 
 
 ## Author
